@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Bell Active.svg"
+   inkscape:export-filename="/home/morales/Dropbox/UNIFESP/Unifesp/ES/Exercícios/Trabalho/Sweet Monitor/BellOn.png"
+   inkscape:export-xdpi="207.8084"
+   inkscape:export-ydpi="207.8084">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="319.9119"
+     inkscape:cy="673.68784"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4146" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#3ce787;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 361.09668,358.36133 a 12.5,12.5 0 0 0 -12.5,12.5 12.5,12.5 0 0 0 12.5,12.5 12.5,12.5 0 0 0 12.5,-12.5 12.5,12.5 0 0 0 -12.5,-12.5 z"
+       id="path4137"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="207"
+       inkscape:export-ydpi="207" />
+    <path
+       style="fill:#3ce787;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 358.12305,379.9082 c -16.5825,0.33149 -34.33065,13.80718 -36.00977,20.11328 -1.94194,8.07113 0.93917,34.03463 0.76563,50 -0.37734,7.18222 -14.86886,16.08724 -16.48829,20 -3.84356,9.53729 30.81578,10.07342 54.45313,11.82422 l 0,0.0332 c 0.08,-0.006 0.17174,-0.0116 0.25195,-0.0176 0.0807,0.006 0.17347,0.0115 0.25391,0.0176 l 0,-0.0332 c 23.63735,-1.7508 58.29669,-2.28693 54.45312,-11.82422 -1.61942,-3.91276 -16.10898,-12.81778 -16.48632,-20 -0.17354,-15.96537 2.7056,-41.92887 0.76367,-50 -1.78013,-6.68546 -21.61909,-21.42281 -38.98438,-20.01953 -0.98485,-0.0795 -1.97562,-0.11373 -2.97265,-0.0937 z"
+       id="path4221"
+       inkscape:export-xdpi="207"
+       inkscape:export-ydpi="207" />
+    <path
+       style="fill:#3ce787;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 348.52344 482.51367 A 15 15 0 0 0 361.09766 489.36133 A 15 15 0 0 0 373.68555 482.51367 C 369.42942 482.78087 365.23067 483.04066 361.34961 483.32812 L 361.34961 483.36133 C 361.26917 483.35523 361.1764 483.34975 361.0957 483.34375 C 361.01549 483.34975 360.92375 483.35533 360.84375 483.36133 L 360.84375 483.32812 C 356.968 483.04105 352.77353 482.78047 348.52344 482.51367 z "
+       id="path4137-7"
+       inkscape:export-xdpi="207"
+       inkscape:export-ydpi="207" />
+  </g>
+</svg>
